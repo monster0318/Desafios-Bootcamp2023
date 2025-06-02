@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Desafio01 {
-
     public static void main(String[] args) {
         // Lendo os dados de Entrada:
         Scanner scanner = new Scanner(System.in);
